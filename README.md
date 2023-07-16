@@ -1,12 +1,4 @@
-# 💫 About Me:
 
-👨‍💻 I'm Denis, a versatile and passionate developer with a knack for creating engaging Android applications, immersive 3D designs, and efficient C/C++ and Java solutions. With a strong foundation in software development and a keen eye for detail, I am constantly pushing the boundaries of my craft to deliver innovative, user-centric experiences.
-
-📱 Android Development: My journey in Android development has equipped me with understanding of the Android SDK, Java, and Kotlin. From small-scale utility apps to complex, data-driven applications, I've had the pleasure of creating apps for me and my friends to test and practice for further projects.
-
-🎨 3D Design: As a 3D enthusiast, I'm great in Blender. From modeling and texturing to rigging and animation, I've developed a strong skill set that allows me to bring my creative visions to life. Whether it's creating captivating game assets or developing stunning visuals for marketing campaigns, I strive to deliver high-quality, eye-catching designs.
-
-💻 C/C++ and Java Development: I have a good foundation in both C/C++ and Java programming, with a focus on developing efficient and scalable solutions. My background in computer science and algorithm design helps me tackle complex problems with ease. I've worked on various projects, including but not limited to, telegram bots, parsers, embedded systems and applications.
 
 # 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-red?color=0088cc&logo=telegram&logoColor=white)](https://t.me/d_sk1ra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_sk1ra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-skira) [![Twitter](https://img.shields.io/badge/Twitter-%1DA1F2.svg?color=00acee&logo=twitter&logoColor=white)](https://twitter.com/d_sk1ra) [![Gmail](https://img.shields.io/badge/Gmail-%D14836?&color=c71610&logo=gmail&logoColor=white)](mailto:denis.skira@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/denis.skira) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/d_sk1ra) 
